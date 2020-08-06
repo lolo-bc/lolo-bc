@@ -4,7 +4,8 @@
 ## About Me
 Hi! I'm a web developer and graphic designer, who recently graduated from UNC-Chapel Hill Web Development Bootcamp.
 <br>
-<a href="https://www.linkedin.com/in/laurencam/">LinkedIn</a> | 
+<a href="https://www.linkedin.com/in/laurencam/">LinkedIn</a> 
+<br>
 <a href="https://loloportfoliolo.herokuapp.com/">Portfolio</a>
 <br>
 <br>
