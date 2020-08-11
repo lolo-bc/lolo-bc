@@ -1,4 +1,4 @@
-[![Header](https://github.com/lolo-bc/lolo-bc/blob/master/githubHeader-01.png?raw=true"Header")](laurenHeader)
+[![Header](hhttps://github.com/lolo-bc/lolo-bc/blob/master/github%20header-01.png?raw=true)](laurenHeader)
  
  
 ## About Me
